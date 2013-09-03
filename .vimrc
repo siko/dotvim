@@ -44,7 +44,7 @@
     " the plugin indent needs to be on before neobundle runs...
     filetype plugin indent on " load filetype plugins/indent settings
     NeoBundleCheck
-    colorscheme blayden " set our customized colorscheme
+    colorscheme solarized " set our customized colorscheme
     set background=dark
     let g:solarized_termtrans=1
     let g:solarized_contrast="high"
