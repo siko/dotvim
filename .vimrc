@@ -32,6 +32,7 @@
     NeoBundle 'tpope/vim-surround'
     NeoBundle 'uggedal/go-vim'
     NeoBundle 'vim-scripts/php.vim--Garvin'
+    NeoBundle 'vim-scripts/c.vim'
     " vimproc needs a special build
     NeoBundle 'Shougo/vimproc', {
           \ 'build' : {
