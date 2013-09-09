@@ -3,4 +3,4 @@
 .vim/undo/%*
 .vim/.netrwhist
 .vim/bundle/*
-.vimrc_custom
+/* .vimrc_custom */
