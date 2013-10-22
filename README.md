@@ -64,7 +64,7 @@ If you haven't checked out the repo yet, be sure and clone it with the --recursi
 * [nerdcommenter](https://github.com/scrooloose/nerdcommenter "nerdcommenter")
 * [nerdtree](https://github.com/scrooloose/nerdtree "nerdtree")
 * [php.vim--Garvin](https://github.com/vim-scripts/php.vim--Garvin "php.vim--Garvin")
-* [python-mode](https://github.com/klen/python-mode "python-mode")
+* ~~ [python-mode](https://github.com/klen/python-mode "python-mode") ~~ replace by jedi-vim
 * [syntastic](https://github.com/scrooloose/syntastic "syntastic")
 * [tagbar](https://github.com/majutsushi/tagbar "tagbar")
 * [unite](https://github.com/Shougo/unite.vim.git "unite")
@@ -81,6 +81,7 @@ If you haven't checked out the repo yet, be sure and clone it with the --recursi
 * [vim-repeat](https://github.com/tpope/vim-repeat "vim-repeat")
 * [vim-surround](https://github.com/tpope/vim-surround "vim-surround")
 * [vimproc](https://github.com/Shougo/vimproc.vim.git "vimproc")
+* [jedi-vim](https://github.com/davidhalter/jedi-vim.git "jedi-vim")
 
 Color Schemes
 -------------

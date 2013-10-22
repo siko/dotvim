@@ -18,7 +18,7 @@
     NeoBundle 'groenewege/vim-less'
     NeoBundle 'kchmck/vim-coffee-script'
     NeoBundle 'kien/ctrlp.vim'
-    NeoBundle 'klen/python-mode'
+    "NeoBundle 'klen/python-mode'  " add the jedi plugin
     NeoBundle 'majutsushi/tagbar'
     NeoBundle 'nathanaelkane/vim-indent-guides'
     NeoBundle 'pangloss/vim-javascript'
