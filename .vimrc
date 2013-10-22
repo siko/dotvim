@@ -35,6 +35,7 @@
     "added by siko
     NeoBundle 'vim-scripts/c.vim'
     NeoBundle 'vim-scripts/lua.vim'
+    NeoBundle 'davidhalter/jedi-vim'
     " vimproc needs a special build
     NeoBundle 'Shougo/vimproc', {
           \ 'build' : {
