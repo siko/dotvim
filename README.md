@@ -64,7 +64,7 @@ If you haven't checked out the repo yet, be sure and clone it with the --recursi
 * [nerdcommenter](https://github.com/scrooloose/nerdcommenter "nerdcommenter")
 * [nerdtree](https://github.com/scrooloose/nerdtree "nerdtree")
 * [php.vim--Garvin](https://github.com/vim-scripts/php.vim--Garvin "php.vim--Garvin")
-* ~~ [python-mode](https://github.com/klen/python-mode "python-mode") ~~ replace by jedi-vim
+* [python-mode](https://github.com/klen/python-mode "~~python-mode~~") > replace by jedi-vim
 * [syntastic](https://github.com/scrooloose/syntastic "syntastic")
 * [tagbar](https://github.com/majutsushi/tagbar "tagbar")
 * [unite](https://github.com/Shougo/unite.vim.git "unite")
